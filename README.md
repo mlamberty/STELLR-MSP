@@ -1,7 +1,7 @@
-### STELLR-MSP
+# STELLR-MSP
 ## Managed Services
 
-# "Lighthouse Onboarding"
+### "Lighthouse Onboarding"
 
 Resource Group management
 
